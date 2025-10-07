@@ -1,67 +1,66 @@
 # Места встраивания виджетов Битрикс24
-# Места встраивания виджетов
 
 ## CALENDAR
 - **Виджет в календаре**  
   Код: `CALENDAR_GRIDVIEW`  
   Путь до файла: [api-reference/widgets/calendar.html](https://apidocs.bitrix24.ru/api-reference/widgets/calendar.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/_images/CALENDAR_GRIDVIEW.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/_images/CALENDAR_GRIDVIEW.png">
 
 ## CONTACT_CENTER
 - **Виджет в контакт-центре**  
   Код: `CONTACT_CENTER`  
   Путь до файла: [api-reference/widgets/contact-center.html](https://apidocs.bitrix24.ru/api-reference/widgets/contact-center.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/_images/CONTACT_CENTER.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/_images/CONTACT_CENTER.png">
 
 ## CRM
 - **Пункт контекстного меню дела в карточке элемента**  
   Код: `CRM_XXX_ACTIVITY_TIMELINE_MENU`  
   Путь до файла: [api-reference/widgets/crm/activity-timeline-menu.html](https://apidocs.bitrix24.ru/api-reference/widgets/crm/activity-timeline-menu.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM__ACTIVITY_TIMELINE_MENU.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM__ACTIVITY_TIMELINE_MENU.png">
 - **Пункт контекстного меню дела в карточке элемента**  
   Код: `CRM_DYNAMIC_XXX_ACTIVITY_TIMELINE_MENU`  
   Путь до файла: [api-reference/widgets/crm/activity-timeline-menu.html](https://apidocs.bitrix24.ru/api-reference/widgets/crm/activity-timeline-menu.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM__ACTIVITY_TIMELINE_MENU.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM__ACTIVITY_TIMELINE_MENU.png">
 - **Пункт левого меню CRM-аналитики**  
   Код: `CRM_ANALYTICS_MENU`  
   Путь до файла: [api-reference/widgets/crm/analytics-menu.html](https://apidocs.bitrix24.ru/api-reference/widgets/crm/analytics-menu.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM_ANALYTICS_MENU.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM_ANALYTICS_MENU.png">
 - **Пункт выпадающего меню верхней кнопки CRM-аналитики**  
   Код: `CRM_ANALYTICS_TOOLBAR`  
   Путь до файла: [api-reference/widgets/crm/analytics-toolbar.html](https://apidocs.bitrix24.ru/api-reference/widgets/crm/analytics-toolbar.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM_ANALYTICS_TOOLBAR.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM_ANALYTICS_TOOLBAR.png">
 - **Дополнительные возможности встраивания**  
   Код: `CRM_XXX_DETAIL_ACTIVITY`  
   Путь до файла: [api-reference/widgets/crm/detail-activity-area.html](https://apidocs.bitrix24.ru/api-reference/widgets/crm/detail-activity-area.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/f6081652-9fee-439d-b7c8-378411be9782.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/f6081652-9fee-439d-b7c8-378411be9782.png">
 - **Дополнительные возможности встраивания**  
   Код: `CRM_DYNAMIC_XXX_DETAIL_ACTIVITY`  
   Путь до файла: [api-reference/widgets/crm/detail-activity-area.html](https://apidocs.bitrix24.ru/api-reference/widgets/crm/detail-activity-area.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/f6081652-9fee-439d-b7c8-378411be9782.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/f6081652-9fee-439d-b7c8-378411be9782.png">
 - **Кнопка над таймлайном карточки элемента**  
   Код: `CRM_XXX_DETAIL_ACTIVITY`  
   Путь до файла: [api-reference/widgets/crm/detail-activity.html](https://apidocs.bitrix24.ru/api-reference/widgets/crm/detail-activity.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM_DEAL_DETAIL_ACTIVITY.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM_DEAL_DETAIL_ACTIVITY.png">
 - **Кнопка над таймлайном карточки элемента**  
   Код: `CRM_DYNAMIC_XXX_DETAIL_ACTIVITY`  
   Путь до файла: [api-reference/widgets/crm/detail-activity.html](https://apidocs.bitrix24.ru/api-reference/widgets/crm/detail-activity.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM_DEAL_DETAIL_ACTIVITY.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM_DEAL_DETAIL_ACTIVITY.png">
 - **Вкладка в детальной карточке элемента CRM**  
   Код: `CRM_XXX_DETAIL_TAB`  
   Путь до файла: [api-reference/widgets/crm/detail-tab.html](https://apidocs.bitrix24.ru/api-reference/widgets/crm/detail-tab.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM_DEAL_DETAIL_TAB.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM_DEAL_DETAIL_TAB.png">
 - **Вкладка в детальной карточке элемента CRM**  
   Код: `CRM_DYNAMIC_XXX_DETAIL_TAB`  
   Путь до файла: [api-reference/widgets/crm/detail-tab.html](https://apidocs.bitrix24.ru/api-reference/widgets/crm/detail-tab.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM_DEAL_DETAIL_TAB.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM_DEAL_DETAIL_TAB.png">
 - **Пункт выпадающего меню верхней кнопки карточки элемента**  
   Код: `CRM_XXX_DETAIL_TOOLBAR`  
   Путь до файла: [api-reference/widgets/crm/detail-toolbar.html](https://apidocs.bitrix24.ru/api-reference/widgets/crm/detail-toolbar.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM_DEAL_DETAIL_TOOLBAR.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM_DEAL_DETAIL_TOOLBAR.png">
 - **Пункт выпадающего меню верхней кнопки карточки элемента**  
   Код: `CRM_DYNAMIC_XXX_DETAIL_TOOLBAR`  
   Путь до файла: [api-reference/widgets/crm/detail-toolbar.html](https://apidocs.bitrix24.ru/api-reference/widgets/crm/detail-toolbar.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM_DEAL_DETAIL_TOOLBAR.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM_DEAL_DETAIL_TOOLBAR.png">
 - **Пункт выпадающего меню генератора документов**  
   Код: `CRM_XXX_DOCUMENTGENERATOR_BUTTON`  
   Путь до файла: [api-reference/widgets/crm/document-generator-button.html](https://apidocs.bitrix24.ru/api-reference/widgets/crm/document-generator-button.html)  
@@ -69,27 +68,27 @@
 - **Пункт выпадающего меню в туннелях продаж**  
   Код: `CRM_FUNNELS_TOOLBAR`  
   Путь до файла: [api-reference/widgets/crm/funnels-toolbar.html](https://apidocs.bitrix24.ru/api-reference/widgets/crm/funnels-toolbar.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM_FUNNELS_TOOLBAR.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM_FUNNELS_TOOLBAR.png">
 - **Пункт контекстного меню в списке элементов**  
   Код: `CRM_XXX_LIST_MENU`  
   Путь до файла: [api-reference/widgets/crm/index.html](https://apidocs.bitrix24.ru/api-reference/widgets/crm/index.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM_DEAL_LIST_MENU.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM_DEAL_LIST_MENU.png">
 - **Пункт контекстного меню в списке элементов**  
   Код: `CRM_DYNAMIC_XXX_LIST_MENU`  
   Путь до файла: [api-reference/widgets/crm/index.html](https://apidocs.bitrix24.ru/api-reference/widgets/crm/index.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM_DEAL_LIST_MENU.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM_DEAL_LIST_MENU.png">
 - **Пункт выпадающего меню над списком элементов**  
   Код: `CRM_XXX_LIST_TOOLBAR`  
   Путь до файла: [api-reference/widgets/crm/list-toolbar.html](https://apidocs.bitrix24.ru/api-reference/widgets/crm/list-toolbar.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM__LIST_TOOLBAR.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM__LIST_TOOLBAR.png">
 - **Пункт выпадающего меню над списком элементов**  
   Код: `CRM_DYNAMIC_XXX_LIST_TOOLBAR`  
   Путь до файла: [api-reference/widgets/crm/list-toolbar.html](https://apidocs.bitrix24.ru/api-reference/widgets/crm/list-toolbar.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM__LIST_TOOLBAR.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM__LIST_TOOLBAR.png">
 - **Пункт выпадающего меню верхней кнопки дизайнера роботов**  
   Код: `CRM_XXX_ROBOT_DESIGNER_TOOLBAR`  
   Путь до файла: [api-reference/widgets/crm/robot-designer-toolbar.html](https://apidocs.bitrix24.ru/api-reference/widgets/crm/robot-designer-toolbar.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM_ROBOT_DESIGNER_TOOLBAR.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/crm/_images/CRM_ROBOT_DESIGNER_TOOLBAR.png">
 - **Взаимодействие с карточкой**  
   Код: `CRM`  
   Путь до файла: [api-reference/widgets/ui-interaction/crm-card.html](https://apidocs.bitrix24.ru/api-reference/widgets/ui-interaction/crm-card.html)  
@@ -131,53 +130,53 @@
 - **Виджеты в главном меню**  
   Код: `LEFT_MENU`  
   Путь до файла: [api-reference/widgets/left-menu.html](https://apidocs.bitrix24.ru/api-reference/widgets/left-menu.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/_images/LEFT_MENU.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/_images/LEFT_MENU.png">
 
 ## TASK
 - **Пункт контекстного меню списка**  
   Код: `TASK_LIST_CONTEXT_MENU`  
   Путь до файла: [api-reference/widgets/task/index.html](https://apidocs.bitrix24.ru/api-reference/widgets/task/index.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/task/_images/TASK_LIST_CONTEXT_MENU.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/task/_images/TASK_LIST_CONTEXT_MENU.png">
 - **Пункт основного выпадающего меню**  
   Код: `TASK_USER_LIST_TOOLBAR`  
   Путь до файла: [api-reference/widgets/task/list-toolbar.html](https://apidocs.bitrix24.ru/api-reference/widgets/task/list-toolbar.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/task/_images/TASK_USER_LIST_TOOLBAR.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/task/_images/TASK_USER_LIST_TOOLBAR.png">
 - **Пункт основного выпадающего меню**  
   Код: `TASK_GROUP_LIST_TOOLBAR`  
   Путь до файла: [api-reference/widgets/task/list-toolbar.html](https://apidocs.bitrix24.ru/api-reference/widgets/task/list-toolbar.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/task/_images/TASK_USER_LIST_TOOLBAR.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/task/_images/TASK_USER_LIST_TOOLBAR.png">
 - **Пункт основного выпадающего меню около настроек роботов**  
   Код: `TASK_ROBOT_DESIGNER_TOOLBAR`  
   Путь до файла: [api-reference/widgets/task/robot-designer-toolbar.html](https://apidocs.bitrix24.ru/api-reference/widgets/task/robot-designer-toolbar.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/task/_images/TASK_ROBOT_DESIGNER_TOOLBAR.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/task/_images/TASK_ROBOT_DESIGNER_TOOLBAR.png">
 - **Правая панель карточки задачи**  
   Код: `TASK_VIEW_SIDEBAR`  
   Путь до файла: [api-reference/widgets/task/view-sidebar.html](https://apidocs.bitrix24.ru/api-reference/widgets/task/view-sidebar.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/task/_images/TASK_VIEW_SIDEBAR.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/task/_images/TASK_VIEW_SIDEBAR.png">
 - **Вкладка в карточке задачи**  
   Код: `TASK_VIEW_TAB`  
   Путь до файла: [api-reference/widgets/task/view-tab.html](https://apidocs.bitrix24.ru/api-reference/widgets/task/view-tab.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/task/_images/TASK_VIEW_TAB.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/task/_images/TASK_VIEW_TAB.png">
 - **Ссылка в верхней части карточки задачи**  
   Код: `TASK_VIEW_TOP_PANEL`  
   Путь до файла: [api-reference/widgets/task/view-top-panel.html](https://apidocs.bitrix24.ru/api-reference/widgets/task/view-top-panel.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/task/_images/TASK_VIEW_TOP_PANEL.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/task/_images/TASK_VIEW_TOP_PANEL.png">
 
 ## TELEPHONY
 - **Пункт меню в аналитике звонков**  
   Код: `TELEPHONY_ANALYTICS_MENU`  
   Путь до файла: [api-reference/widgets/telephony/analytics-menu.html](https://apidocs.bitrix24.ru/api-reference/widgets/telephony/analytics-menu.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/telephony/_images/TELEPHONY_ANALYTICS_MENU.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/telephony/_images/TELEPHONY_ANALYTICS_MENU.png">
 - **Вкладка в карточке звонка**  
   Код: `CALL_CARD`  
   Путь до файла: [api-reference/widgets/telephony/index.html](https://apidocs.bitrix24.ru/api-reference/widgets/telephony/index.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/telephony/_images/CALL_CARD.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/telephony/_images/CALL_CARD.png">
 
 ## UI_INTERACTION
 - **Взаимодействие с карточкой звонка**  
   Код: `CALL_CARD`  
   Путь до файла: [api-reference/widgets/ui-interaction/call-card/index.html](https://apidocs.bitrix24.ru/api-reference/widgets/ui-interaction/call-card/index.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/ui-interaction/call-card/_images/CALL_CARD.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/ui-interaction/call-card/_images/CALL_CARD.png">
 
 ## REST_APP
 - **Виджет в виде ссылки со слайдером**  
@@ -195,22 +194,22 @@
 - **Пункт контекстного меню в профиле**  
   Код: `USER_PROFILE_MENU`  
   Путь до файла: [api-reference/widgets/user-profile/profile-menu.html](https://apidocs.bitrix24.ru/api-reference/widgets/user-profile/profile-menu.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/user-profile/_images/USER_PROFILE_MENU.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/user-profile/_images/USER_PROFILE_MENU.png">
 - **Пункт контекстного меню верхней кнопки профиля**  
   Код: `USER_PROFILE_TOOLBAR`  
   Путь до файла: [api-reference/widgets/user-profile/profile-toolbar.html](https://apidocs.bitrix24.ru/api-reference/widgets/user-profile/profile-toolbar.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/user-profile/_images/USER_PROFILE_TOOLBAR.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/user-profile/_images/USER_PROFILE_TOOLBAR.png">
 
 ## SONET_GROUP
 - **Пункт основного выпадающего меню проекта**  
   Код: `SONET_GROUP_DETAIL_TAB`  
   Путь до файла: [api-reference/widgets/workgroups/index.html](https://apidocs.bitrix24.ru/api-reference/widgets/workgroups/index.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/workgroups/_images/SONET_GROUP_DETAIL_TAB.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/workgroups/_images/SONET_GROUP_DETAIL_TAB.png">
 - **Пункт выпадающего меню над списком задач**  
   Код: `TASK_GROUP_LIST_TOOLBAR`  
   Путь до файла: [api-reference/widgets/workgroups/toolbar.html](https://apidocs.bitrix24.ru/api-reference/widgets/workgroups/toolbar.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/workgroups/_images/SONET_GROUP_TOOLBAR.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/workgroups/_images/SONET_GROUP_TOOLBAR.png">
 - **Пункт основного выпадающего меню около настроек роботов**  
   Код: `TASK_ROBOT_DESIGNER_TOOLBAR`  
   Путь до файла: [api-reference/widgets/workgroups/robot-designer-toolbar.html](https://apidocs.bitrix24.ru/api-reference/widgets/workgroups/robot-designer-toolbar.html)  
-  Изображение: ![][![]](https://apidocs.bitrix24.ru/api-reference/widgets/workgroups/_images/TASK_ROBOT_DESIGNER_TOOLBAR-4.png)
+  Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/workgroups/_images/TASK_ROBOT_DESIGNER_TOOLBAR-4.png">
