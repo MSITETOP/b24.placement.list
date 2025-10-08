@@ -213,3 +213,35 @@
   Код: `TASK_ROBOT_DESIGNER_TOOLBAR`  
   Путь до файла: [api-reference/widgets/workgroups/robot-designer-toolbar.html](https://apidocs.bitrix24.ru/api-reference/widgets/workgroups/robot-designer-toolbar.html)  
   Изображение: <img width="200" src="https://apidocs.bitrix24.ru/api-reference/widgets/workgroups/_images/TASK_ROBOT_DESIGNER_TOOLBAR-4.png">
+
+
+
+# Недокументированные виджеты (описание предположительное, так как информации я не нашел)
+
+## CRM
+- **Форма редактирования реквизитов**  
+  Код: `CRM_REQUISITE_EDIT_FORM`
+- **Автодополнение реквизитов**  
+  Код: `CRM_REQUISITE_AUTOCOMPLETE`
+- **Автодополнение банковских реквизитов**  
+  Код: `CRM_BANK_DETAIL_AUTOCOMPLETE`
+- **Поиск в детальной карточке**  
+  Код: `CRM_DETAIL_SEARCH`
+
+## TASK
+- **Верхнее меню задач**  
+  Код: `TASK_TOP_MENU`
+- **Режим просмотра задачи**  
+  Код: `TASK_VIEW_MODE`
+- **Добавление пункта в меню просмотра задачи**  
+  Код: `TASK_VIEW_MENU_ADD`
+
+## OTHER
+- **Внешний продукт каталога**  
+  Код: `CATALOG_EXTERNAL_PRODUCT`
+- **Ссылка на зарплату и отпуск**  
+  Код: `HCMLINK_SALARY_VACATION`
+- **Меню аналитики BI**  
+  Код: `BI_ANALYTICS_MENU`
+- **Страница 1C**  
+  Код: `1C_PAGE`
