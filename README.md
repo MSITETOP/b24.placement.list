@@ -249,3 +249,6 @@
   Код: `BI_ANALYTICS_MENU`
 - **Страница 1C**  
   Код: `1C_PAGE`
+- **Коннектор настроек ОЛ**  
+  Код: `SETTING_CONNECTOR`
+  Путь до файла: [/tutorials/openlines/example-connector.html](https://apidocs.bitrix24.ru/tutorials/openlines/example-connector.html)  упоминается в этой документации, но не описан детально
