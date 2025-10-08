@@ -226,10 +226,10 @@
 - **Форма редактирования реквизитов**  
   Код: `CRM_REQUISITE_EDIT_FORM`
 - **Автодополнение реквизитов**  
-  Код: `CRM_REQUISITE_AUTOCOMPLETE` 
+  Код: `CRM_REQUISITE_AUTOCOMPLETE`  
   Изображение: <img width="200" src="./_images/photo_2025-10-08_09-57-06.jpg">
 - **Автодополнение банковских реквизитов**  
-  Код: `CRM_BANK_DETAIL_AUTOCOMPLETE` 
+  Код: `CRM_BANK_DETAIL_AUTOCOMPLETE`  
   Изображение: <img width="200" src="./_images/photo_2025-10-08_09-57-08.jpg">
 - **Поиск в детальной карточке**  
   Код: `CRM_DETAIL_SEARCH`
